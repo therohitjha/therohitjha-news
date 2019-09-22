@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/therohitjha-news/static/js/main.d209ece6.chunk.js",
+    "main.js.map": "/therohitjha-news/static/js/main.d209ece6.chunk.js.map",
+    "runtime-main.js": "/therohitjha-news/static/js/runtime-main.01a6206f.js",
+    "runtime-main.js.map": "/therohitjha-news/static/js/runtime-main.01a6206f.js.map",
+    "static/js/2.4680f36c.chunk.js": "/therohitjha-news/static/js/2.4680f36c.chunk.js",
+    "static/js/2.4680f36c.chunk.js.map": "/therohitjha-news/static/js/2.4680f36c.chunk.js.map",
+    "index.html": "/therohitjha-news/index.html",
+    "precache-manifest.957120d2c86c75fe4d64d50decc11893.js": "/therohitjha-news/precache-manifest.957120d2c86c75fe4d64d50decc11893.js",
+    "service-worker.js": "/therohitjha-news/service-worker.js"
+  }
+}
